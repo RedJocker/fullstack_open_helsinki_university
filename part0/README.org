@@ -1,5 +1,7 @@
 * Exercises
 
+[[file:../README.org::*Submission instructions][Submission Instructions]]
+
 ** 0.1: HTML
 
 Review the basics of HTML by reading this
